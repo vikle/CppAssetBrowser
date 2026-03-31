@@ -1,0 +1,17 @@
+# cache
+build
+cmake-build-*/
+CMakeLists.txt
+.xmake
+compile_commands.json
+
+# Visual Studio cache directory
+.vs/
+.vsconfig
+.vscode
+
+# Rider cache directory
+.idea/
+
+#Mac OS Files
+*.DS_Store
